@@ -1,2 +1,0 @@
-# BlastingMaster
-Blasting Master Site
